@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a56cb8e94edda24fb3774a4b5a99dee
+timeCreated: 1495570881
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91263
+  packageName: Ultimate Nature Pack
+  packageVersion: 1.1.1.0
+  assetPath: Assets/Ultimate Nature Pack/Source/Demo Objects/Credit/Credit.txt
+  uploadId: 825686

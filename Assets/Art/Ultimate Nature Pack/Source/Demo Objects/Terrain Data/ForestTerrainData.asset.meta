@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc6322aa81b88514d860ee1bdf19c91a
+timeCreated: 1494972491
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91263
+  packageName: Ultimate Nature Pack
+  packageVersion: 1.1.1.0
+  assetPath: Assets/Ultimate Nature Pack/Source/Demo Objects/Terrain Data/ForestTerrainData.asset
+  uploadId: 825686

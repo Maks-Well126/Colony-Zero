@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26ed4bf82fb074f4fa4282c2c5b2e60e
+timeCreated: 1495046913
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91263
+  packageName: Ultimate Nature Pack
+  packageVersion: 1.1.1.0
+  assetPath: Assets/Ultimate Nature Pack/Source/Demo Objects/Terrain Data/BeachTerrainData.asset
+  uploadId: 825686

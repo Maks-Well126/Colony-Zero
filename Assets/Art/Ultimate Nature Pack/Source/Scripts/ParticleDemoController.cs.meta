@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 462d89e918b08574dbc0cf7d3e169a0d
+timeCreated: 1495563737
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91263
+  packageName: Ultimate Nature Pack
+  packageVersion: 1.1.1.0
+  assetPath: Assets/Ultimate Nature Pack/Source/Scripts/ParticleDemoController.cs
+  uploadId: 825686
